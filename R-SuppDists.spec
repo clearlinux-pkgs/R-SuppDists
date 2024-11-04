@@ -7,7 +7,7 @@
 #
 Name     : R-SuppDists
 Version  : 1.1.9.8
-Release  : 51
+Release  : 52
 URL      : https://cran.r-project.org/src/contrib/SuppDists_1.1-9.8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/SuppDists_1.1-9.8.tar.gz
 Summary  : Supplementary Distributions
